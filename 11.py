@@ -7,6 +7,4 @@ for i in range(len(s) // 2):
     else:
         break
     
-    i += 1
-
 print(p)
